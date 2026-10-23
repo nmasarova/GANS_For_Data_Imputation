@@ -1,0 +1,2 @@
+from tabularGAIN import data_imputation_completer'
+data_imputation_completer(rawData, nr_epoch, distinct_ratio_threshold, generator_lr, discriminator_lr, verbose)
